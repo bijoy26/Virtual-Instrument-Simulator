@@ -6,9 +6,3 @@ A full fledged educational project on musical instruments simulation and learnin
 2. Tamanna Afrose
 3. Jannatul Ferdous
 
-# Required Contents:
- 
-# Activity Timestamps
-
-> Make the basic structure of layout saved in VIS_piano.zip
-
