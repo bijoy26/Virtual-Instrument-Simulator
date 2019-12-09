@@ -6,4 +6,4 @@ A full fledged educational project on musical instruments simulation and learnin
 2. Tamanna Afrose
 3. Jannatul Ferdous
 
-![](demoGif.gif)
+![](vis_demoGif.gif)
